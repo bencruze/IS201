@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+img{
+    display: block;
+    padding: 5px;
+    border: 2px solid hsl(0, 0%, 0%);
+    margin: auto;
+    vertical-align: auto;
+}
+.head{
+    text-align: center;
+    border-bottom-style: solid;
+}
+.nav{
+    top: 0;
+    left: 0;
+    z-index: 1;
+    border: 2px solid black;
+    position: absolute;
+}
+
+ol{
+    font-size:larger;
+}
